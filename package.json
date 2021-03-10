@@ -20,5 +20,6 @@
   "homepage": "https://github.com/ivethgaracia05/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "dependencies": {}
 }
